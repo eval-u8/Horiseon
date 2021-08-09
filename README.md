@@ -16,6 +16,23 @@ This source code is available to the public through the standard <a href="#">MIT
 
 To contribute, just clone <a href="https://github.com/evalecillos/Horiseon">this link</a> and code away!
 
+# Development
+
+## HTML
+    <ul>
+        <li>Indentation adjusted</li>
+        <li>Semantic elements implemented</li>
+        <li>Updated website title</li>
+        <li>Updated some missing ID elements</li>
+        <li>Updated location of images</li>
+    <ul>
+
+## CSS
+    <ul>
+        <li>Consolidated multiple declarations into less messy selectors</li>
+        <li>Added slight commenting to guide users through the file</li>
+    </ul>
+
 # Credits
 
 Thanks to <a href="https://www.makeareadme.com/">Make a README</a>, the <a href="https://github.com/microsoft/vscode/blob/main/README.md">VS Code Repo</a>, and <a href="https://docs.github.com/en">GitHub Docs.</a> for informing me so that I could deploy the website as well as make a README file.
