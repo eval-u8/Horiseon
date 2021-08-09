@@ -16,3 +16,12 @@ This source code is available to the public through the standard <a href="#">MIT
 
 To contribute, just clone <a href="https://github.com/evalecillos/Horiseon">this link</a> and code away!
 
+# Credit
+
+Thanks to <a href="https://www.makeareadme.com/">Make a README</a>, the <a href="https://github.com/microsoft/vscode/blob/main/README.md">VS Code Repo</a>, and <a href="https://docs.github.com/en">GitHub Docs.</a>
+
+Thanks to them I was able to deploy the website as well as make a relatively solid README file.
+
+# Feedback
+
+I'm always looking for ways to improve, especially on this field, so if there's anything I could improve on, or some neat trick regarding this repo or any other repo, I would extremely appreciate it if you could let me know by sending me an <a href="emailto:evalecillos@gmail.com">e-mail.</a> Thanks!!
