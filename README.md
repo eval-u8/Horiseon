@@ -8,9 +8,11 @@ This source code is available to the public through the standard <a href="#">MIT
 
 # Horiseon Website
 
+<a href="https://evalecillos.github.io/Horiseon/">Click here</a> to go to Horiseon's main website (seen below)
 
 <img src="Develop/assets/images/website image.png" alt="Horiseon's Main Site"/>
 
 # Contribute
 
 To contribute, just clone <a href="https://github.com/evalecillos/Horiseon">this link</a> and code away!
+
